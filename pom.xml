@@ -8,4 +8,8 @@
     <artifactId>design-patterns</artifactId>
     <version>1.0</version>
 
+    <modules>
+        <module>creational-patterns</module>
+    </modules>
+
 </project>
